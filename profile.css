@@ -1,0 +1,20 @@
+h1
+{
+    text-align: center; font-family: 'Frijole'
+    cursive;font-weight:normal;font-size:10mm;
+}
+h4{
+   text-align: center; font-family: 'Frijole'
+    cursive;font-weight:normal;font-size:6mm;
+}
+.ooo{
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align:center; font-family: 'Stick No Bills'
+     sans-serif;font-size:5mm;
+}
+body {
+    background-image: url(IMages/back2.jpg);
+}

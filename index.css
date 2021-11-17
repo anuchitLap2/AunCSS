@@ -1,0 +1,59 @@
+h1 {
+    text-align: center; 
+    font-family:   
+    Stick No Bills sans-serif;
+    }
+   
+    .lll {
+        width:100%; text-align: center;
+        position: fixed;
+    }
+    .ooo {
+        width: 33.3%; vertical-align: top;
+    }
+    .p {
+    text-align: center;
+     font-family:  Stick No Bills sans-serif;
+    font-weight:normal;
+    }
+    .th {
+        width:40%;
+        vertical-align: top;
+        text-align:left
+    }
+    .fa {
+        padding: 10px;
+       font-size: 15px;
+       width: 15px;
+       text-align: center;
+       text-decoration: none;
+        border-radius: 50%;
+       }
+    
+    .fa:hover {
+    opacity: 0.7;
+    }
+    
+    .fa-facebook {
+    background: #3B5998;
+    color: white;
+    }
+    .fa-youtube {
+    background: #bb0000;
+    color: white;
+    }
+    .fa-instagram {
+    background: #125688;
+    color: white;
+    }
+    h4 {
+        text-align: center; 
+        font-family:Stick No Bills sans-serif;
+    }
+   .ioi {
+   width: 33.3%; 
+   vertical-align: top;
+   }
+  body {
+      background-image: url(IMages/back2.jpg);
+  }

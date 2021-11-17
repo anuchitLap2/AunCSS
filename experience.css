@@ -1,0 +1,17 @@
+body {
+    background-image: url(IMages/back2.jpg);
+}
+h1{
+    text-align: center; 
+    font-family: 'Frijole'cursive;
+    font-weight:normal;font-size:10mm;
+}
+h4{
+   text-align: center; font-family: 'Frijole'
+    cursive;font-weight:normal;font-size:6mm;
+}
+h2{
+    text-align:left; 
+    font-family:'Stick No Bills', sans-serif;
+    font-size:7mm;
+}
